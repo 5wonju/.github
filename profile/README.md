@@ -99,8 +99,8 @@
 
 ## 🛠️ System Architecture
 
-![image](/README.assets/architecture.png)
+![image](./README.assets/architecture.png)
 
 ## ERD
 
-![image](/README.assets/erd.png)
+![image](./README.assets/erd.png)
