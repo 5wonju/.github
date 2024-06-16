@@ -103,4 +103,4 @@
 
 ## ERD
 
-![image](./README.assets/erd.png)
+![image](./README.assets/erd.PNG)
